@@ -133,4 +133,11 @@ Front end previews:
 
 
 
+![int2](https://github.com/AnikaAnmolSara/Interior_Designer/assets/136097878/b552be1d-ce61-4473-a13d-0eafa11952f3)
 
+![int3](https://github.com/AnikaAnmolSara/Interior_Designer/assets/136097878/23e27e7d-9f22-4d43-b693-0a77a6106abe)
+![int4](https://github.com/AnikaAnmolSara/Interior_Designer/assets/136097878/3ffef6d8-3926-494f-a7a3-7db1510d06f5)
+
+
+![int6](https://github.com/AnikaAnmolSara/Interior_Designer/assets/136097878/a24a829e-0c91-49d4-9026-453b8199fd47)
+![int10](https://github.com/AnikaAnmolSara/Interior_Designer/assets/136097878/c945761a-c957-47bc-a430-4b8110097273)
