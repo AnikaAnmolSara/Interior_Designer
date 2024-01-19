@@ -2,7 +2,7 @@ TRENDY HOME
 
 
 1.	Introduction:
-“Trendy Home” is our web application’s name. It’s a kind of web application where people can find interior designers according to their taste to decors their desired home. It’s a commercial web app.
+“Trendy Home” is the name of the web application. It’s a kind of web application where people can find interior designers according to their taste to decors their desired home. It’s a commercial web app.
 There are lot of people who wants to design their home, room, office conforming to their likings. But often times majority of people cannot find good and experienced interior designers. Sometimes people do not have any idea about home design or interior design to begin with. This web application allows users to hire any designer they choose based on their prior work.
 The purpose of this app is to avoid the hassles of searching suitable designers. The main motivation is the application build a platform so that, customers can access so many designers in one place instead of searching countless no. of intermediary. And along with regular people the designers are also benefited by this application because, they are having more client.
 The challenges we may face in this project is to convert this idea into the real life program and keeping it bug free. Maintaining the security or privacy of the customers and designers are also a big challenge. 
@@ -121,8 +121,14 @@ Description	step 1: the customers and designer gives the feedback
 step 2: the feedback reaches the admin
 
 
+Front end previews:
 
 
+
+
+
+
+![Int1](https://github.com/AnikaAnmolSara/Interior_Designer/assets/136097878/607889fb-7445-43d5-ba16-d640a8538f31)
 
 
 
